@@ -25,13 +25,11 @@ Este script Python automatiza o processo de extração de relatórios de  pagame
 
 **1.** Clone este repositório em sua máquina local.
 
-**2.** Instale as dependências necessárias executando pip install -r requirements.txt.
+**2.** Edite o arquivo file.txt para incluir os códigos das lojas que deseja consultar.
 
-**3.** Edite o arquivo COD MOM.txt para incluir os códigos das lojas que deseja consultar.
+**3.** Execute o script Python Extract-info-in-Santander-Bank.py.
 
-**4.** Execute o script Python santander_payment_automation.py.
-
-**5.** Siga as instruções para fazer login manualmente no site do Santander quando solicitado.
+**4.** Siga as instruções para fazer login manualmente no site do Santander quando solicitado.
 
 ## *Observação*
 
@@ -63,13 +61,11 @@ This Python script automates the process of extracting payment reports from the 
 
 **1.** Clone this repository to your local machine.
 
-**2.** Install the necessary dependencies by running pip install -r requirements.txt.
+**2.** Edit the file.txt file to include the codes of the stores you want to query.
 
-**3.** Edit the COD MOM.txt file to include the codes of the stores you want to query.
+**3.** Run the Extract-info-in-Santander-Bank.py Python script.
 
-**4.** Run the santander_payment_automation.py Python script.
-
-**5.** Follow the instructions to manually log in to the Santander website when prompted.
+**4.** Follow the instructions to manually log in to the Santander website when prompted.
 
 ## *Notes:*
 
