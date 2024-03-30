@@ -15,11 +15,11 @@ Este script Python automatiza o processo de extração de relatórios de  pagame
 
 ## Funcionalidades:
 
-1. **Configuração do Driver:** Configuração do WebDriver para o navegador Chrome, com camuflagem de automação para evitar detecção.
+**1. Configuração do Driver:** Configuração do WebDriver para o navegador Chrome, com camuflagem de automação para evitar detecção.
 
-2. **Login Manual:** O usuário é solicitado a fazer login manualmente no site do Santander.
+**2. Login Manual:** O usuário é solicitado a fazer login manualmente no site do Santander.
 
-3. **Consulta de Pagamentos:** O script consulta os pagamentos para cada loja listada no arquivo de texto, definindo um intervalo de datas para a consulta.
+**3. Consulta de Pagamentos:** O script consulta os pagamentos para cada loja listada no arquivo de texto, definindo um intervalo de datas para a consulta.
 
 ## Como Usar:
 
@@ -53,11 +53,11 @@ This Python script automates the process of extracting payment reports from the 
 
 ## Features:
 
-1- **Driver Configuration:** Configuration of the WebDriver for the Chrome browser, with automation evasion to avoid detection.
+**1- Driver Configuration:** Configuration of the WebDriver for the Chrome browser, with automation evasion to avoid detection.
 
-2- **Manual Login:** User prompted to manually log in to the Santander website.
+**2- Manual Login:** User prompted to manually log in to the Santander website.
 
-3- **Payment Query:** The script queries payments for each store listed in the text file, setting a date range for the query.
+**3- Payment Query:** The script queries payments for each store listed in the text file, setting a date range for the query.
 
 ## How to Use:
 
