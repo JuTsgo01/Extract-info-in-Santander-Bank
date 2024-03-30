@@ -11,7 +11,7 @@ import random
 import os
 
 
-CAMINHO_DOS_CODIGOS_DAS_LOJAS = r'C:\\Users\\ClodoaldoJunior\\Desktop\\estudo\\RPA - SELENIUM\SANTANDER\\COD MOM.txt'
+CAMINHO_DOS_CODIGOS_DAS_LOJAS = 'file.txt'
 DATA_DE_HOJE = datetime.now()
 CALCULANDO_UM_MES_PARA_TRAS = DATA_DE_HOJE - timedelta(days=29)
 CALCULANDO_TRES_MESES_PARA_FRENTE = DATA_DE_HOJE + timedelta(days=92)
